@@ -1,0 +1,14 @@
+1 FBV  function base view   基于函数的视图函数
+  需要判断请求方式
+  序列化 反序列化难度大
+
+2 CBV  class base view      基于类的视图函数  简称  类视图
+  不需要判断请求方式
+  序列化 反序列化难度大
+
+3 DRF  djangorestframework  框架
+  序列化 反序列化
+
+4 FBV+DRF
+
+5 CBV+DRF
